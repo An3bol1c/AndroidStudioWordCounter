@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Praktinisdarbas2</string>
+
+    <string-array name="text_types">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Punctuation</item>
+        <item>Numbers</item>
+    </string-array>
+
+    <string name="result_format">%1$s: %2$d</string>
+</resources>
